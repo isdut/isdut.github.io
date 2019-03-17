@@ -1,2 +1,2 @@
 # isdut.github.io
-www.isdut.cn主页快照
+www.isdut.cn 主页快照
